@@ -8,4 +8,4 @@ db = SQLAlchemy(app)
 
 from api.controller import index
 from api.controller import batchs
-
+from api.controller import signboards
