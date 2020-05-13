@@ -22,7 +22,6 @@ make run
 
 ## References
 
-https://flask.palletsprojects.com/en/1.1.x/#user-s-guide
-https://flask-sqlalchemy.palletsprojects.com/en/2.x/
-https://pythonhosted.org/Flask-Testing/
-https://flask.palletsprojects.com/en/1.1.x/testing/#testing-json-apis
+- https://flask.palletsprojects.com/en/1.1.x/#user-s-guide
+- https://flask-sqlalchemy.palletsprojects.com/en/2.x/
+- https://flask.palletsprojects.com/en/1.1.x/testing/#testing-json-apis
