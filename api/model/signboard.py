@@ -13,4 +13,4 @@ class Signboard(db.Model):
     deleted = db.Column(db.Boolean)
 
     def __repr__(self):
-        return '<User %r>' % self.username
+        return '<Signboard %r>' % self.signboard_code

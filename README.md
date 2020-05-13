@@ -4,6 +4,12 @@
 
 see: https://gist.github.com/emmanuel-florent/16fdecf3d6b72125397cf0dbbc415c36
 
+## depencies
+
+```
+apt-get install git make python3
+```
+
 ## development
 
 ```
@@ -11,6 +17,8 @@ make install
 make pytest
 make run
 ```
+
+
 
 ## References
 
