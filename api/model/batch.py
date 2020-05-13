@@ -12,4 +12,4 @@ class Batch(db.Model):
     deleted = db.Column(db.Boolean)
 
     def __repr__(self):
-        return '<Batch %r>' % self.username
+        return '<Batch %r>' % self.batch_code
